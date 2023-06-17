@@ -8,6 +8,6 @@
 
 <h5> Short Demo of the app </h5>
 
-<img src = "img/readmeImg/img1">
-<img src = "img/readmeImg/img2">
-<img src = "img/readmeImg/img3">
+<img src = "img/readmeImg/img1.png">
+<img src = "img/readmeImg/img2.png">
+<img src = "img/readmeImg/img3.png">
