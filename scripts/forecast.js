@@ -22,10 +22,3 @@ const getCity = async (city) =>{
 //since it is an async fucnton it is returning apromise so we do then() and catch method
 
 
-getCity('manchester').then(data=>{
-        return getWeather(data.Key);
-    }).then(data=>{
-        console.log(data);
-
-    })
-    .catch(err=> console.log(err));
